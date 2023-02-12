@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://bridges.defirilla.com
+
+# Sitemaps
+Sitemap: https://bridges.defirilla.com/sitemap.xml
